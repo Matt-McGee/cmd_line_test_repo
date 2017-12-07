@@ -2,3 +2,5 @@ This is a new file created to test out git, which I've just downloaded separatel
 with only instructions on how to install git in Eclipse, but nothing about how to use it.
 
 Here's an addition to this file, so that git can see the change, and I can understand a little more about committing.
+
+Here's a change to the new branch I created, so I can see how a merge works at the Github page.
