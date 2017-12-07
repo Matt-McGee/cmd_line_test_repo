@@ -1,2 +1,4 @@
 This is a new file created to test out git, which I've just downloaded separately from the Eclipse version. I was forced into using that for the project in CS350, Software Engineering,
 with only instructions on how to install git in Eclipse, but nothing about how to use it.
+
+Here's an addition to this file, so that git can see the change, and I can understand a little more about committing.
